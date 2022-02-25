@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning basics of programming
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
